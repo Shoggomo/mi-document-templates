@@ -97,4 +97,4 @@ sudo apt install texlive-bibtex-extra
 
 - Die Kommentare in ```document.tex``` sowie der Inhalt der Formatvorlage geben Ihnen Hinweise zur Verwendung des Templates und zur Gestaltung Ihrer Arbeit.
 
-- Verwenden Sie die Dokumentklasse ```mi-seminar``` für Seminararbeiten und ```mi-graduation``` für Abschlussarbeiten. Diese unterscheiden Sich größtenteils in der Gestaltung der Titelseite.
+- Verwenden Sie die Dokumentklasse ```seminar``` für Seminararbeiten und ```thesis``` für Abschlussarbeiten. Diese unterscheiden Sich größtenteils in der Gestaltung der Titelseite.
